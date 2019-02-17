@@ -1,7 +1,5 @@
 package edu.snhu;
 
-import org.jetbrains.annotations.Contract;
-
 public class ItemToPurchase {
    
    public ItemToPurchase() {
@@ -14,7 +12,6 @@ public class ItemToPurchase {
       this.itemName = itemName;
    }
    
-   @Contract(pure = true)
    public final String getItemName() {
       return itemName;
    }
@@ -23,7 +20,6 @@ public class ItemToPurchase {
       this.itemPrice = itemPrice;
    }
    
-   @Contract(pure = true)
    public final int getItemPrice() {
       return itemPrice;
    }
