@@ -1,6 +1,9 @@
 # Online shopping cart
 
-Create a program using classes that does the following: 
+[![Build Status](https://travis-ci.com/rowland007/Online-shopping-cart.svg?branch=master)](https://travis-ci.com/rowland007/Online-shopping-cart)
+[![CodeFactor](https://www.codefactor.io/repository/github/rowland007/online-shopping-cart/badge)](https://www.codefactor.io/repository/github/rowland007/online-shopping-cart)
+
+Create a program using classes that does the following:
 
 (1) Create two files to submit:
 
